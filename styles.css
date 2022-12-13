@@ -1,11 +1,13 @@
-.codeInput{
-    width: 90vw;
+.textInput{
+    min-width: 200px;
+    max-width: 500px;
     margin: 20px 0;
     padding: 10px;
 }
 .paragraph{
     border: 1px solid black;
-    width: 90vw;
+    min-width: 200px;
+    max-width: 500px;
     min-height: 100px;
     overflow-wrap: break-word;  
     word-wrap: break-word; 
